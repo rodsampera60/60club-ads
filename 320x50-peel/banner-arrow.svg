@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="17px" viewBox="0 0 51 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>banner-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.186 42.0001283 0.186 42.0001283 19.6263893 0 19.6263893"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.505095109">
+        <g id="728x90-0-copy" transform="translate(-600.000000, -49.000000)">
+            <g id="banner-arrow" transform="translate(627.967622, 57.941343) rotate(-30.000000) translate(-627.967622, -57.941343) translate(603.467622, 44.441343)">
+                <g id="Group-3" transform="translate(0.000000, 0.814400)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M41.3105,17.2777 C33.9185,17.4857 27.1415,17.5487 20.0875,14.8777 C12.4865,11.9987 5.9325,6.9647 1.1115,0.4367 C0.6735,-0.1553 -0.3285,0.4057 0.1075,1.0227 C8.7475,13.2927 26.2035,22.7337 41.4985,18.6687 C42.2615,18.4647 42.1185,17.2557 41.3105,17.2777" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M47.4931,16.8645 C43.0271,15.9255 38.9951,14.2045 34.6561,12.9205 C33.6031,12.6085 33.0201,14.0965 33.9241,14.6595 C37.1701,16.6815 41.2591,17.7815 45.1041,18.4875 C41.1951,22.0355 36.5681,24.0665 31.5091,25.7515 C30.9691,25.9315 31.0151,26.8855 31.6521,26.8095 C37.8941,26.0795 43.3591,22.6885 47.9371,18.5475 C48.4821,18.0535 48.2221,17.0165 47.4931,16.8645" id="Fill-4" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
